@@ -11,4 +11,4 @@ My goal is take notes and build projects for each section after I finish the sec
 
 ### 2.Higher-Order Components (HOC)
 
-### **3.The Compound Component Pattern**
+### **_3.The Compound Component Pattern_**
